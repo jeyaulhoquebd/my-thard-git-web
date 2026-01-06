@@ -1,0 +1,15 @@
+h1{
+    color: rgb(255, 255, 255);
+    background-color: rosybrown;
+    padding: 20px;
+    border-radius: 100px;
+
+}
+
+ul{
+    background-color: rgb(122, 92, 92);
+    padding: 20px;
+    border-radius: 10px;
+    columns: 40px;
+    color: whitesmoke;
+}
